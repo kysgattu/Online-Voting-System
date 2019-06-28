@@ -1,0 +1,24 @@
+SMAP
+voting_jsp.java
+JSP
+*S JSP
+*F
++ 0 voting.jsp
+voting.jsp
++ 1 connection.jsp
+connection.jsp
+*L
+5,2:52
+5#1,21:54
+25:12
+25,3:75
+27,6:78
+32,5:84
+7#0,22:88
+29,3:111
+31,4:114
+35:118,3
+36:121,6
+37:127,3
+38,15:130
+*E

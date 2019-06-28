@@ -1,0 +1,10 @@
+SMAP
+del_005fcand_jsp.java
+JSP
+*S JSP
+*F
++ 0 del_cand.jsp
+del_cand.jsp
+*L
+5,25:44
+*E

@@ -1,0 +1,24 @@
+SMAP
+view_005fcand_jsp.java
+JSP
+*S JSP
+*F
++ 0 view_cand.jsp
+view_cand.jsp
++ 1 connection.jsp
+connection.jsp
+*L
+5,2:52
+5#1,21:54
+25:12
+25,3:75
+27,6:78
+32,5:84
+7#0,37:88
+44,5:126
+48,2:131
+50,13:133,3
+63,4:172
+67,2:177
+68,8:179
+*E
