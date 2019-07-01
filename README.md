@@ -1,5 +1,7 @@
 # Online Voting System
 
+![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/online%20voting%20home.png)
+
 Online Voting System is an alternative voting channel to increase voter participation, reduce election costs while upholding the highest security, verifiability and integrity standards.
 
 Online Voting enables voters to cast their vote privately and easily from any location and on any device with Internet access (PC, tablet, smartphone, etc.), ensuring maximum election engagement by enabling remote and disabled voters to participate on equal terms.
