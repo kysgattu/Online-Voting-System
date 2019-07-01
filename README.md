@@ -14,11 +14,11 @@ Voter privacy, election integrity, end-to-end security, vote correctness and ful
     - [Prerequisites](#prerequisites)
     - [Technologies Used](#technologies-used)
 - [Features](#features)
-    - [Users](#users)
+    - [Voters](#voters)
         - [Login And Register](#login-and-register)
-        - [List Elections](#list-elections)
+        - [List Candidates](#list-candidates)
         - [Vote!](#vote)
-        - [Show Stats](#show-stats)
+        - [Show Result](#show-result)
     - [Admin](#admin)
         - [Add Elections](#add-elections)
         - [Edit Elections](#edit-elections)
@@ -43,4 +43,32 @@ Voter privacy, election integrity, end-to-end security, vote correctness and ful
 2. JSP
 3. HTML,CSS,JavaScript and Java
 4. MySQL
+
+
+## Features <a name='features'></a>
+
+> VOTERS <a name='voters'></a>
+
+### Login and Register <a name='login-and-register'></a>
+This app provides facility for voter to register himself to cast his/her vote in the elections.
+
+![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/user_reg.PNG)
+![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/Login.PNG)
+
+### List Candidates <a name='list-candidates'></a>
+Candidates participating in the elections and the details about the party to which they belong are provided.
+![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/contestantslist.PNG)
+
+### Vote! <a name='vote'></a>
+Voting page consists of a dropdown menu containkng the names of the candidates. Voter has to enter his VoterId and select a candidate from the dropdown menu and click Submit. After successfull voting a page is displayed saying your vote has been casted.
+
+![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/voting.PNG)
+![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/voted.PNG)
+
+### Show Result <a name='show-result'></a>
+When an Election has ended Result option becomes active. It shows the all candiadates sorted by number of votes. It also shows various statistics regarding the election and the final winner of the election.
+
+![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/final%20result.png)
+
+
 
