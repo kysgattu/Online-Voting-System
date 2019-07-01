@@ -117,6 +117,7 @@ Admin can remove a voter from the voters list if he/she is not eligible for cast
 
 ### Disqualify Candidates <a name='remove-candidate'></a>
 If a candidate nominated for the elections violates any rule or doesn't satisfy the norms set by the election commmission, afdmin can disqualify the candidate from the election.This can be done by entering the CandidateId of the candidate in the provided text area and click submit.
+
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/del_cand.PNG)
 
 ### Live Voting <a name='voting-status'></a>
