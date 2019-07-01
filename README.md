@@ -19,6 +19,11 @@ Voter privacy, election integrity, end-to-end security, vote correctness and ful
         - [List Candidates](#list-candidates)
         - [Vote!](#vote)
         - [Show Result](#show-result)
+    - [Candidates](#candidates)
+        - [Login And Register](#login-and-register)
+        - [Live Voting](#voting-status)        
+        - [Show Result](#show-result)
+    
     - [Admin](#admin)
         - [Add Elections](#add-elections)
         - [Edit Elections](#edit-elections)
@@ -70,5 +75,23 @@ When an Election has ended Result option becomes active. It shows the all candia
 
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/final%20result.png)
 
+
+> CANDIDATES <a name='candidates'></a>
+
+### Login and Register <a name='login-and-register'></a>
+This app provides facility for voter to register himself to cast his/her vote in the elections.
+
+![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/cand_reg.PNG)
+![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/Login.PNG)
+
+### Live Voting <a name='voting-status'></a>
+Candidate participating in the elections can see the election status live during the process of election.
+
+![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/live%20voting.PNG)
+
+### Show Result <a name='show-result'></a>
+When an Election has ended Result option becomes active. It shows the all candiadates sorted by number of votes. It also shows various statistics regarding the election and the final winner of the election.
+
+![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/final%20result.png)
 
 
