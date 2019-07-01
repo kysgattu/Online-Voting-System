@@ -23,3 +23,14 @@ Voter privacy, election integrity, end-to-end security, vote correctness and ful
         - [Add Candidates](#add-candidates)
         - [Candidate Details](#candidate-details)
 - [Contributers](#contributers)
+- [Links](#links)
+
+## Installation <a name='installation'></a>
+
+### Prerequisites <a name='prerequisites'></a>
+
+1. Netbeans IDE 7.3.1
+2. Micosoft SQL Server 
+3. SQL Configuration Manager
+4. IIS Server
+5. Web Browser
