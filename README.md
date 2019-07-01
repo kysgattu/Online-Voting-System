@@ -58,23 +58,23 @@ Voter privacy, election integrity, end-to-end security, vote correctness and ful
 > VOTERS <a name='voters'></a>
 
 ### Login and Register <a name='login-and-register'></a>
-This app provides facility for voter to register himself to cast his/her vote in the elections.
+This app provides facility for voter to register himself/herself to cast his/her vote in the elections.
 
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/user_reg.PNG)
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/Login.PNG)
 
 ### List Candidates <a name='list-candidates'></a>
-Candidates participating in the elections and the details about the party to which they belong are provided.
+Candidates participating in the elections and the details about the party to which they belong are provided for the voter.
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/contestantslist.PNG)
 
 ### Vote! <a name='vote'></a>
-Voting page consists of a dropdown menu containkng the names of the candidates. Voter has to enter his VoterId and select a candidate from the dropdown menu and click Submit. After successfull voting a page is displayed saying your vote has been casted.
+Voting page consists of a dropdown menu containing the names of the candidates. Voter has to enter his VoterId and select a candidate from the dropdown menu and click Submit. After successfull voting, a page is displayed saying your vote has been casted.
 
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/voting.PNG)
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/voted.PNG)
 
 ### Show Result <a name='show-result'></a>
-When an Election has ended Result option becomes active. It shows the all candiadates sorted by number of votes. It also shows various statistics regarding the election and the final winner of the election.
+When the Election has ended Result option becomes active. It shows all the candiadates sorted by number of votes. It also shows various statistics regarding the election and the final winner of the election.
 
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/final%20result.png)
 
@@ -82,7 +82,7 @@ When an Election has ended Result option becomes active. It shows the all candia
 > CANDIDATES <a name='candidates'></a>
 
 ### Login and Register <a name='login-and-register'></a>
-This app provides facility for voter to register himself to cast his/her vote in the elections.
+This app provides facility for candidate to register himself/herself to participate in the elections.
 
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/cand_reg.PNG)
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/Login.PNG)
@@ -93,7 +93,7 @@ Candidate participating in the elections can see the election status live during
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/live%20voting.PNG)
 
 ### Show Result <a name='show-result'></a>
-When an Election has ended Result option becomes active. It shows the all candiadates sorted by number of votes. It also shows various statistics regarding the election and the final winner of the election.
+When the Election has ended Result option becomes active. It shows all the candiadates sorted by number of votes. It also shows various statistics regarding the election and the final winner of the election.
 
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/final%20result.png)
 
@@ -116,7 +116,7 @@ Admin can remove a voter from the voters list if he/she is not eligible for cast
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/del_voters.PNG)
 
 ### Disqualify Candidates <a name='remove-candidate'></a>
-If a candidate nominated for the elections violates any rule or doesn't satisfy the norms set by the election commmission, afdmin can disqualify the candidate from the election.This can be done by entering the CandidateId of the candidate in the provided text area and click submit.
+If a candidate nominated for the elections violates any rule or doesn't satisfy the norms set by the election commmission, admin can disqualify the candidate from the election.This can be done by entering the CandidateId of the candidate in the provided text area and click submit.
 
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/del_cand.PNG)
 
@@ -126,7 +126,7 @@ Admin can see the election status live during the process of election.
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/live%20voting.PNG)
 
 ### Show Result <a name='show-result'></a>
-When an Election has ended Result option becomes active. It shows the all candiadates sorted by number of votes. It also shows various statistics regarding the election and the final winner of the election.
+When the Election has ended Result option becomes active. It shows all the candiadates sorted by number of votes. It also shows various statistics regarding the election and the final winner of the election.
 
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/final%20result.png)
 
