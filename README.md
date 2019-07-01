@@ -135,3 +135,7 @@ When an Election has ended Result option becomes active. It shows the all candia
 * Sai Kumar Sunka
 
 
+## Links <a name='links'></a>
+
+GitHub:     [G K Y SHASTRY](https://github.com/kysgattu)
+Contact me:     <gkyshastry0502@gmail.com>
