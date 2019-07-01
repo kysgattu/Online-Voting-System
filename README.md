@@ -29,8 +29,16 @@ Voter privacy, election integrity, end-to-end security, vote correctness and ful
 
 ### Prerequisites <a name='prerequisites'></a>
 
-1. Netbeans IDE 7.3.1
-2. Micosoft SQL Server 
-3. SQL Configuration Manager
-4. IIS Server
+1. JDK 1.7
+2. MySQL Server 3.1 
+3. MySQL Configuration Manager
+4. Apache Tomcat Server 7.0 
 5. Web Browser
+
+### Technologies Used <a name='technologies-used'></a>
+
+1. NetBeans IDE 7.3.1
+2. JSP
+3. HTML,CSS,JavaScript and Java
+4. MySQL
+
