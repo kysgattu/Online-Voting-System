@@ -32,7 +32,7 @@ Voter privacy, election integrity, end-to-end security, vote correctness and ful
         - [Live Voting](#voting-status)        
         - [Show Result](#show-result)
         
-- [Contributers](#contributers)
+- [Developers](#developers)
 - [Links](#links)
 
 ## Installation <a name='installation'></a>
@@ -130,10 +130,9 @@ When an Election has ended Result option becomes active. It shows the all candia
 
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/final%20result.png)
 
-## Contributers <a name='contributers'></a>
+## Developer <a name=developers'></a>
 * Kamal Yeshodhar Shastry Gattu
-* Nikitha Barmala
-* Sai Kumar Sunka
+
 
 
 ## Links <a name='links'></a>
