@@ -129,4 +129,9 @@ When an Election has ended Result option becomes active. It shows the all candia
 
 ![alt tag](https://github.com/kysgattu/Online-Voting-System/blob/master/OVS%20Screenshots/final%20result.png)
 
+## Contributers <a name='contributers'></a>
+* Kamal Yeshodhar Shastry Gattu
+* Nikitha Barmala
+* Sai Kumar Sunka
+
 
