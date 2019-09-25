@@ -13,7 +13,7 @@
     </head>
     <body style="background-color:#EBEBEB">
     <center><h1><font face="Baskerville Old Face">WELCOME TO ONLINE VOTING SYSTEM</font></h1></center>
-    <center><marquee><font face="algerian">YOUR VOTE IS VALUABLE FOR THE DEVELOPMENT OF THE SOCIETY</font></marquee></center>
+    <center><marquee><font face="algerian">YOUR VOTE IS VALUABLE FOR THE DEVELOPMENT OF THE SOCIETY!</font></marquee></center>
     <table cellspacing="15">
     <tr>
     <td><img src="Whenweallvote.jpeg" align="left" height="150" width="300"><td>
@@ -24,7 +24,7 @@
         Some of the problems involved include rigging votes during election, insecure or inaccessible polling stations, inadequate polling materials and also inexperienced personnel.
         This online voting/polling system seeks to address the above issues.
         It should be noted that with this system in place, the users, citizens in this case shall be given ample time during the voting period.
-        They shall also be trained on how to vote online before the election time
+        They shall also be trained on how to vote online before the election time.
     </font></b></p></td>
     </tr></table>
     <table cellspacing="15">
@@ -42,8 +42,7 @@
         the citizen is then registered as a voter.
         </font></b></p></td>
     <td><img src="urvotematters.png" align="right" height="200" width="147"><td>
-    </tr>
-        
+    </tr> 
     </table>
     </body>
 </html>
