@@ -15,14 +15,15 @@
         <title>User View</title>
     </head>
     <script>
-        function admin_home()
+        function home()
         {
-            location.replace("admin_home.jsp");
+            location.replace("home.jsp");
         }
     </script>
     <body style="background-color:#EBEBEB">
         <center>
             <h1>ONLINE VOTING SYSTEM</h1>
+            <h2>Electoral List</h2>
             <table border="1">
                 <tr>
                     <td>First Name</td>
@@ -36,9 +37,8 @@
                     <td>Pincode</td>
                     <td>Mobile no</td>
                     <td>Email id</td>
-                    <td>User id</td>
-                    <td>Password</td>
-                    <td>Confirm Password</td>
+                    
+                    
                </tr>
             <tbody>
                 <%
@@ -59,9 +59,8 @@
                     <td><%=rs.getString(9)%></td>
                     <td><%=rs.getString(10)%></td>
                     <td><%=rs.getString(11)%></td>
-                    <td><%=rs.getString(12)%></td>
-                    <td><%=rs.getString(13)%></td>
-                    <td><%=rs.getString(14)%></td>
+                    
+                    
                     
                 </tr>
                 <%
@@ -72,7 +71,7 @@
             </tbody>
            </table>
                 <br>
-           <button  onclick="admin_home()">Go Back</button>              
+           <button  onclick="home()">Go Back</button>              
        </center>
                 
   </body>
