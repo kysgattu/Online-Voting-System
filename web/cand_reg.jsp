@@ -76,15 +76,16 @@
     <td> <input type="text" name="MOBNO" value="" size="50" align="left">
 <tr><td align="right"><b>E-mail<sup><font color="red">*</font></sup>:</b>
     <td> <input type="email" name="EMAIL" value="" size="50" align="left">
-<tr><td align="right"><b>Political Party<sup><font color="red">*</font></sup>:</b>
+<tr><td align="right"><b>Political Party<sup><font color="red">#</font></sup>:</b>
     <td> <input type="text" name="PARTY" value=""  align="left">
 <tr><td align="right"><b>Candidate ID<sup><font color="red">*</font></sup>:</b>
     <td> <input type="text" name="CID" value="" size="50" align="left">                                                        
-<tr><td align="right"><b>Create Password<sup><font color="red">*</font></sup>:</b>
+<tr><td align="right"><b>Create Password<sub><font color="red">*</font></sub>:</b>
     <td> <input type="password" name="PWD" value="" size="50" align="left">
 <tr><td align="right"><b>Confirm Password<sup><font color="red">*</font></sup>:</b>
     <td> <input type="password" name="CNFPWD" value="" size="50" align="left">
 <tr><td><td align="right"><small>Fields with <font color="red">* </font>are mandatory. </small>
+<tr><td><td align="right"><small><font color="red">#</font>Leave this if you doesn't belong to any party </small>    
 </table>
     
 
