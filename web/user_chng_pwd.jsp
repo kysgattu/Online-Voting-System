@@ -15,6 +15,14 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Change User Password</title>
     </head>
+    <script>
+            function back()
+            {
+                location.replace("user_home.jsp");
+            }
+
+    </script>
+
     <body>
         <h1 align="center"><u>Online Voting</u></h1>
 <form name="ChangePasswordForm" method="post" action="user_chng_pwd_ins.jsp" >
@@ -41,11 +49,8 @@
 <br>
 <p align="center">
 <input type="submit" name="Submit" value="Save"> 
- <input type="reset" name="cancel" value="cancel"></p>
-
-
-
-
+<input type="reset" name="cancel" value="cancel"></p>
 </form>
+<center><button  onclick="back()">Go back</button></center>        
 </body>
 </html>
