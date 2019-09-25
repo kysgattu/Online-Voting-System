@@ -24,6 +24,7 @@
     <body style="background-color:#EBEBEB">
         <center>
             <h1>ONLINE VOTING</h1>
+            <h2>Candidates Nominated</h2>
             <table border="1">
                 <tr>
                     <td>Name</td>
@@ -36,14 +37,11 @@
                     <td>Mobile no</td>
                     <td>Email id</td>
                     <td>Party</td>                    
-                    <td>User id</td>
-                    <td>Password</td>
-                    <td>Confirm Password</td>
                </tr>
             <tbody>
                 <%
                     Statement st=con.createStatement();
-                    ResultSet rs=st.executeQuery("select * from cand_reg");
+                    ResultSet rs=st.executeQuery("select name,age,gen,address,city,state,pincode,mobno,email,party from cand_reg;");
                     while(rs.next())
                      {
                 %>
@@ -58,9 +56,6 @@
                     <td><%=rs.getString(8)%></td>
                     <td><%=rs.getString(9)%></td>
                     <td><%=rs.getString(10)%></td>
-                    <td><%=rs.getString(11)%></td>
-                    <td><%=rs.getString(12)%></td>
-                    <td><%=rs.getString(13)%></td>
                     
                     
                 </tr>
