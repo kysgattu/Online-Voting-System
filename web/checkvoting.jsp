@@ -11,7 +11,7 @@
 		location.replace("voting.jsp");
    }
    function redirect1(){
-       location.replace("404.jsp");
+       location.replace("403.jsp");
    }
    function CompareDate() {  
        var todayDate = new Date(); //Today Date  
