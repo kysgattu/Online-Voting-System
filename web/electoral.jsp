@@ -12,31 +12,34 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>User View</title>
+        <title>Electoral Roll</title>
     </head>
     <script>
-        function admin_home()
+        function home()
         {
-            location.replace("admin_home.jsp");
+            location.replace("home.jsp");
         }
     </script>
-    <body style="background-color:#EBEBEB">
-        <center>
-            <h1>ONLINE VOTING SYSTEM</h1>
-            <h2>Voters List</h2>
-            <table border="1">
-                <tr>
-                    <td>First Name</td>
-                    <td>Last Name</td>
-                    <td>Age</td>
-                    <td>Gender</td>
-                    <td>Aadhar</td>
-                    <td>Address</td>
-                    <td>City</td>
-                    <td>State</td>
-                    <td>Pincode</td>
-                    <td>Mobile no</td>
-                    <td>Email id</td>
+    
+<body style="background-color:#EBEBEB">
+<center>
+<font face="Calibri" size="36" color="#2F5496">
+<p><u>Online Voting System</u></p></font>
+<font face="Calibri Light" size="26" color="#4472C4">
+<p><b><u>Electoral Roll</b></u></p></font>
+<table border="7" style="border-collapse:collapse;border-spacing:0;border-color:#ccc;border-width:1px;"> <!border="1">
+                <tr style="font-weight:bold;font-style:italic;text-decoration:underline;font-size:18px;font-family:"Comic Sans MS";">
+                    <td style="color:#4472C4; text-align:center">First Name</td>
+                    <td style="color:#4472C4;text-align:center">Last Name</td>
+                    <td style="color:#4472C4;text-align:center;">Age</td>
+                    <td style="color:#4472C4;text-align:center">Gender</td>
+                    <td style="color:#4472C4;text-align:center">Aadhar</td>
+                    <td style="color:#4472C4;text-align:center">Address</td>
+                    <td style="color:#4472C4;text-align:center">City</td>
+                    <td style="color:#4472C4;text-align:center">State</td>
+                    <td style="color:#4472C4;text-align:center">Pincode</td>
+                    <td style="color:#4472C4;text-align:center">Mobile no</td>
+                    <td style="color:#4472C4; text-align:center">Email id</td>
                     
                     
                </tr>
@@ -47,7 +50,7 @@
                     while(rs.next())
                      {
                 %>
-                <tr>
+                <tr bgcolor=#f8f8f8>
                     <td><%=rs.getString(1)%></td>
                     <td><%=rs.getString(2)%></td>
                     <td><%=rs.getString(3)%></td>
@@ -71,7 +74,7 @@
             </tbody>
            </table>
                 <br>
-           <button  onclick="admin_home()">Go Back</button>              
+<button  onclick="home()">Go Back</button>
        </center>
                 
   </body>
