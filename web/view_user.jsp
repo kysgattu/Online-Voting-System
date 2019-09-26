@@ -15,9 +15,9 @@
         <title>User View</title>
     </head>
     <script>
-        function home()
+        function admin_home()
         {
-            location.replace("home.jsp");
+            location.replace("admin_home.jsp");
         }
     </script>
     <body style="background-color:#EBEBEB">
@@ -71,7 +71,8 @@
             </tbody>
            </table>
                 <br>
-           <button  onclick="home()">Go Back</button>              
+           
+                      <button  onclick="admin_home()">Go Back</button>              
        </center>
                 
   </body>
