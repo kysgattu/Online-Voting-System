@@ -1,0 +1,20 @@
+1.index.jsp>>online_voting_rmenu.html>>
+ 2.user_reg.jsp>>user_ins.jsp // check_nomin.jsp>>cand_reg.jsp>>cand_ins.jsp
+ >>>>connection.jsp
+ 3.login.jsp>>user_logchck.jsp //cand_logchck.jsp//admin_logchck.jsp
+ 4.user_home.jsp>>contestants.jsp>>checkvoting.jsp>>voting.jsp>>voting_ins.jsp
+ 		>user_chng_pwd.jsp
+ 5.cand_home.jsp>>votingstatus.jsp
+ 		>cand_chng_pwd.jsp
+ 6.admin_home.jsp>>view_user.jsp
+ 		 >>view_cand.jsp
+       		 >>del_user.jsp
+           	 >>del_cand.jsp
+       	    	 >>result.jsp
+ 7.checkresult.jsp>>final_result.jsp
+ 8.about.jsp
+ 9.contact.jsp
+10.index.jsp>>online_voting_rmenu.html>>
+ 11.voter_inst.pdf
+ 12.cand_inst.pdf
+ 13.imp_dates.html
